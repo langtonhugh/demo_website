@@ -18,7 +18,7 @@ distill::create_website(dir = ".",
 # ==============================================================================
 # Creating a postcard landing page. 
 
-# (1) Remove the existing index.Rmd file.W
+# (1) Remove the existing index.Rmd file.
 unlink("index.Rmd")
 
 # (2) Create a postcard page and name it index.

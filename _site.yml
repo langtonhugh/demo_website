@@ -1,0 +1,14 @@
+name: "."
+title: "Tobi Burns"
+description: |
+  Tobi Burns
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Something"
+      href: about.html
+    - text: "Posts"
+      href: first_post.html
+output: distill::distill_article

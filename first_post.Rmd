@@ -1,0 +1,16 @@
+---
+title: "First article"
+description: |
+  Some additional details about my first article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Contains some info.
+
+```{r}
+# Empty ggplot
+ggplot2::ggplot()
+```

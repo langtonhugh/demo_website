@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-01-15T11:05:44+01:00"
+    },
+    {
+      "path": "first_post.html",
+      "title": "First article",
+      "description": "Some additional details about my first article",
+      "author": [],
+      "contents": "\r\nContains some info.\r\n\r\n\r\n# Empty ggplot\r\nggplot2::ggplot()\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-01-15T11:05:45+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Tobi Burns",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Tobi Burns\r\n          \r\n          \r\n          Home\r\n          Something\r\n          Posts\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Tobi Burns\r\n          \r\n          \r\n            \r\n              I work in RDM at AUMC.\r\n            \r\n            \r\n              I work in RDM at AUMC.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Google Scholar\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Google Scholar\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2025-01-15T11:05:46+01:00"
+    }
+  ],
+  "collections": []
+}
